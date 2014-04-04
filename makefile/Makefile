@@ -20,7 +20,7 @@ MEXT = md
 SRC = $(wildcard *.$(MEXT))
 
 ## Location of Pandoc support files.
-PREFIX = /Users/kjhealy/.pandoc
+PREFIX = /Users/mtzen/.pandoc
 
 ## Location of your working bibliography file
 BIB = /Users/kjhealy/Documents/bibs/socbib-pandoc.bib
