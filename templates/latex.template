@@ -1,6 +1,5 @@
-\documentclass[11pt,article,oneside]{memoir}
-\usepackage[minion]{org-preamble-pdflatex}
-\input{vc}
+\documentclass[12pt,article,oneside]{memoir}
+\usepackage[]{org-preamble-pdflatex}
 
 $if(listings)$
 \usepackage{listings}
